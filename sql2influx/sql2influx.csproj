@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CD9A1C4B-22A3-4C11-87F9-5D7E0D9D049C}</ProjectGuid>
+    <ProjectGuid>{AC35E9C1-738D-459E-B6E0-2AE9EA0799BD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>collector</RootNamespace>
-    <AssemblyName>collector</AssemblyName>
+    <RootNamespace>sql2influx</RootNamespace>
+    <AssemblyName>sql2influx</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
